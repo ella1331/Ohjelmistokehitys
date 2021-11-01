@@ -1,0 +1,16 @@
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\obj\Debug\net5.0\Harjoitukset2.csproj.AssemblyReference.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\obj\Debug\net5.0\Harjoitukset2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\obj\Debug\net5.0\Harjoitukset2.AssemblyInfoInputs.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\obj\Debug\net5.0\Harjoitukset2.AssemblyInfo.cs
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\obj\Debug\net5.0\Harjoitukset2.csproj.CoreCompileInputs.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\bin\Debug\net5.0\Harjoitukset2.exe
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\bin\Debug\net5.0\Harjoitukset2.deps.json
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\bin\Debug\net5.0\Harjoitukset2.runtimeconfig.json
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\bin\Debug\net5.0\Harjoitukset2.runtimeconfig.dev.json
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\bin\Debug\net5.0\Harjoitukset2.dll
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\bin\Debug\net5.0\ref\Harjoitukset2.dll
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\bin\Debug\net5.0\Harjoitukset2.pdb
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\obj\Debug\net5.0\Harjoitukset2.dll
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\obj\Debug\net5.0\ref\Harjoitukset2.dll
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\obj\Debug\net5.0\Harjoitukset2.pdb
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Harjoitukset2\Harjoitukset2\obj\Debug\net5.0\Harjoitukset2.genruntimeconfig.cache
