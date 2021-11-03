@@ -1,0 +1,16 @@
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\bin\Debug\net5.0\Oliot.exe
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\bin\Debug\net5.0\Oliot.deps.json
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\bin\Debug\net5.0\Oliot.runtimeconfig.json
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\bin\Debug\net5.0\Oliot.runtimeconfig.dev.json
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\bin\Debug\net5.0\Oliot.dll
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\bin\Debug\net5.0\ref\Oliot.dll
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\bin\Debug\net5.0\Oliot.pdb
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\obj\Debug\net5.0\Oliot.csproj.AssemblyReference.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\obj\Debug\net5.0\Oliot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\obj\Debug\net5.0\Oliot.AssemblyInfoInputs.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\obj\Debug\net5.0\Oliot.AssemblyInfo.cs
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\obj\Debug\net5.0\Oliot.csproj.CoreCompileInputs.cache
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\obj\Debug\net5.0\Oliot.dll
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\obj\Debug\net5.0\ref\Oliot.dll
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\obj\Debug\net5.0\Oliot.pdb
+C:\Users\ella_\OneDrive\Desktop\Ohjelmistokehitys\Oliot\Oliot\obj\Debug\net5.0\Oliot.genruntimeconfig.cache
